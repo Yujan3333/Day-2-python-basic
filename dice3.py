@@ -1,3 +1,6 @@
+
+# Using alias for the function import
+
 from random import randint as r
 
 def diceroll():
